@@ -16,7 +16,7 @@ We will review the role of each of technology in the context of web development.
 - HTML: Structure
 - CSS: Style
 - JavaScript: Function
-- Figma: Design
+- Canva: Design
 - React: *Frontend* Framework + Efficiency
 ### Backend:
 - SQL: Database Language
@@ -66,21 +66,29 @@ Client-server architecture is a fundamental concept in web development, where th
 Much of what we've covered previously can be found on the *backend* of web development, however, what is just as critical and, to some, just as challenging is **frontend** development.
 
 **The key frontend technologies we will be using include:**
-- Figma
+- Canva
 - HTML
 - CSS
 - JavaScript
 - React
 - (*some*) TailwindCSS
 
-**Figma** is an online service that allows users to conceptualize, design, and prototype various web development features or applications. You can use it to design logos, graphics, GIFs, tables, wireframes, etc.
+### Canva
+![image](./slides/slide_9.png)
+**Canva** is an online service that allows users to conceptualize, design, and prototype various web development features or applications. You can use it to design logos, graphics, GIFs, tables, wireframes, etc.
 
 In our use case, we will use Figma to wireframe and test different designs for our webpages. This will be a useful tool for visualizing what our applications will look like from front to back.
 
+### HTML
+![image](./slides/slide_10.png)
 **HTML** is a markdown language we will use to give our webpages sense and *structure*. Some would consider HTML the *bones* to our webpages anatomy.
 
+### CSS
+![image](./slides/slide_11.png)
 **CSS** is a styling language we will use to format, design, and beautify our webpages. You can think of it as the aesthetics of our webpage.
 
-**JavaScript** is a multi-paradigm program language that can be used on both the frontend *and* the backend of our web development. It is considered the *function* behind the application. It drives the desired behaviors of your web apps. You should be familiar with both use cases by the end of this program.
+### JavaScript
+![image](./slides/slide_12.png)
+**JavaScript** is a multi-paradigm programming language that can be used on both the frontend *and* the backend of our web development. It is considered the *function* behind the application. It drives the desired behaviors of your web apps. You should be familiar with both use cases by the end of this program.
 
 It is important to note that this program is teaching ***fullstack*** web development, and there will be an expectation to both design *and* develop the web applications front to back. The success of your portfolio is contingent on your ability to design aesthetically pleasing webpages, as well as fully functional and accessible features.
