@@ -1,10 +1,10 @@
 # Welcome to:
 ![image](./slides/slide_1.jpg)
 
-## What to Expect Today
+## What to Expect In This Lesson
 ![image](./slides/slide_2.jpg)
 
-## Review of Pre-training Material
+## Review of Prerequisite Material
 - What is the internet 
 - Client / Server architecture=
 - Frontend / Backend
@@ -14,24 +14,24 @@ We will review the role of each of technology in the context of web development.
 
 ## Overview of (“Fullstack”) Technologies
 ![image](./slides/slide_3.jpg)
-As a first lesson, we will not be going extensively into each technology, but rather providing a context for what each technology's role is in the program's tech stack. As the program rolls, each technology will be introduced, then *re-introduced*, applied, and continuously used until you have fully developed a few fullstack web applications, either independently or with teams.
+As a first lesson, we will not be going extensively into each technology, but rather providing a context for what each technology's role is in the program's tech stack. As the program rolls, each technology will be introduced, then *re-introduced*, applied, and continuously used until you have fully developed a few fullstack web applications, either independently (or with teams).
 
-Think of each technology we introduce as a building block, progressively becoming more challenging while painting a complex picture until the picture is complete. As the challenge increases, it is important to know: *it does get easier*. What was once challenging in the past will seem like a breeze in the future, so embrace the challenge and look forward to your skillbuilding!
+Think of each technology we introduce as a building block, progressively becoming more challenging while painting a complex picture until the picture is complete. As the challenge increases, it is important to know: ***it does get easier***. What was once challenging in the past will seem like a breeze in the future, so embrace the challenge and look forward to your skillbuilding!
 
 ### Frontend:
-- [HTML: Structure](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS: Style](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript: Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Figma: UX/UI Design](https://www.figma.com/)
-- [React: *Frontend* Framework + Efficiency](https://react.dev/)
-- [(*some*) TailwindCSS](https://tailwindcss.com/)
+- [**HTML :**](https://developer.mozilla.org/en-US/docs/Web/HTML) Structure
+- [**CSS :**](https://developer.mozilla.org/en-US/docs/Web/CSS) Style
+- [**JavaScript :**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) Function
+- [**Figma :**](https://www.figma.com/) UX/UI Design
+- [**React :**](https://react.dev/) *Frontend* Framework + Efficiency
+- (*some*) [**TailwindCSS :**](https://tailwindcss.com/) Style^2
 
 ### Backend:
-- [SQL: Database Language](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
-- [Supabase: *Backend* Framework](https://supabase.com/)
-- [Prisma: ORM (Object Relational Model)](https://www.prisma.io/)
-- [Express: Web framework with included web features for web and mobile applications](https://expressjs.com/)
-- [NodeJS: JavaScript Runtime environment](https://nodejs.org/en)
+- [**SQL :**](https://developer.mozilla.org/en-US/docs/Glossary/SQL) Database Language
+- [**Supabase :**](https://supabase.com/) *Backend* Framework
+- [**Prisma :**](https://www.prisma.io/) ORM (Object Relational Model)
+- [**Express :**](https://expressjs.com/) Web framework with included web features for web and mobile applications
+- [**NodeJS :**](https://nodejs.org/en) JavaScript Runtime environment
 
 Of course, this tech stack is not the end-all-be-all of web development, but it does cover the necessary concepts foundational for any entry-level web developer's skillsets.
 
@@ -69,14 +69,6 @@ Client-server architecture is a fundamental concept in web development, where th
 
 ## Frontend Development
 Much of what we've covered previously can be found on the *backend* of web development, however, what is just as critical and, to some, just as challenging is **frontend** development.
-
-**The key frontend technologies we will be using include:**
-- Canva
-- HTML
-- CSS
-- JavaScript
-- React
-- (*some*) TailwindCSS
 
 ### Figma
 ![image](./slides/slide_10.png)
