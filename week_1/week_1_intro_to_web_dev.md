@@ -73,9 +73,9 @@ Much of what we've covered previously can be found on the *backend* of web devel
 - React
 - (*some*) TailwindCSS
 
-### Canva
+### Figma
 ![image](./slides/slide_9.png)
-**Canva** is an online service that allows users to conceptualize, design, and prototype various web development features or applications. You can use it to design logos, graphics, GIFs, tables, wireframes, etc.
+**Figma** is an online service that allows users to conceptualize, design, and prototype various web development features or applications. You can use it to design logos, graphics, GIFs, tables, wireframes, etc.
 
 In our use case, we will use Figma to wireframe and test different designs for our webpages. This will be a useful tool for visualizing what our applications will look like from front to back.
 
