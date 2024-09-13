@@ -85,7 +85,7 @@ In our use case, we will use Figma to wireframe and test different designs for o
 
 ### HTML
 ![image](./slides/slide_11.png)
-**HyperText Markdown Language (HTML)** is a markdown language we will use to give our webpages sense and *structure*. Some would consider HTML the *bones* to our webpages anatomy.
+**HyperText Markup Language (HTML)** is a markup language we will use to give our webpages sense and *structure*. Some would consider HTML the *bones* to our webpages anatomy.
 
 ### CSS
 ![image](./slides/slide_12.png)
@@ -96,3 +96,7 @@ In our use case, we will use Figma to wireframe and test different designs for o
 **JavaScript** is a multi-paradigm programming language that can be used on both the frontend *and* the backend of our web development. It is considered the *function* behind the application. It drives the desired behaviors of your web apps. You should be familiar with both use cases by the end of this program.
 
 **Note:** It is important to understand that this program is teaching ***fullstack*** web development, and there will be an expectation to both design *and* develop web applications front to back. The success of your portfolio is contingent on your ability to design aesthetically pleasing webpages, as well as fully functional, bug-free, and accessible features in your applications.
+
+<hr/>
+
+### [Next Section: HTML >>]()
