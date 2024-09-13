@@ -99,4 +99,4 @@ In our use case, we will use Figma to wireframe and test different designs for o
 
 <hr/>
 
-### [Next Section: HTML >>]()
+### [Next Section: Introduction to HTML >>](https://github.com/ControlAltTea/test_markdown_canva/blob/main/week_1/week_1_intro_to_HTML.md)
