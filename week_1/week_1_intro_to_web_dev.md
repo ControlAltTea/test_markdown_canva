@@ -38,33 +38,40 @@ Of course, this tech stack is not the end-all-be-all of web development, but it 
 ## Review of Pre-Training Material
 ### The Internet
 ![image](./slides/slide_4.jpg)
-
-> The internet is a global network of interconnected computers that communicate using a standard set of protocols, primarily the Transmission Control Protocol/Internet Protocol (TCP/IP). It enables the sharing of information and resources across vast distances, allowing users to access websites, send emails, stream videos, and much more. - *britannica.com*
+The **internet** is a global network of interconnect computers communicating through a stand set of protocols. It is used to exchange information and resources across the globe. These protocols allow users to send messages, exchange media files such as images, audio, and video, while also allowing for live or realtime streaming such as video conferencing and video streaming. It's what allows you to access this class and communicate with your instructors, classmates, and friends.
 
 ### World Wide Web
-The world wide web is a major service on the internet that allows for the retrieval and display of information in the form of web pages.
+The **World Wide Web (WWW)** differs from the internet, in that the purpose of the WWW is to consolidate the information or resources received via the internet into a central space such as web pages or web applications. Together, they create a digital experience for users to communicate with each other, use tools, learn, exchange lived experiences, and be connected.
 
-This is done through the "*client-server architecture*".
+For example, if your personal device is able to connect to your home router or has access to mobile data, you are able to access websites like Facebook or mobile applications like TikTok or Instagram. With a strong enough connection, you can stream videos on YouTube, view live streams on Instagram, and make video calls via Facetime or Zoom.
+
+Without the internet, the WWW would not be able to deliver these reources to users, and without the WWW, the internet, though it can still function, would be less user-friendly.
+
+Our roles as web developers is to create approachability towards web applications so that businesses or services can create an experience users will want to return. Exchanging information can be designed in a user-friendly way, but there are also systems to make the design process more approachable to developers themselves.
+
+This is done through the "***client-server architecture***".
 
 ### Client-Server Architecture
 ![image](./slides/slide_5.jpg)
 
-Client-server architecture is a fundamental concept in web development, where the system is divided into two main parts: the client and the server.
+**Client-server architecture** is a fundamental concept in web development, in which the system is divided into two main parts: the **client** and the **server**.
 
-> Web browsers communicate with web servers using the HyperText Transfer Protocol (HTTP). When you click a link on a web page, submit a form, or run a search, an HTTP request is sent from your browser to the target server.
+Remember how we talked about user-friendly experiences on web pages? That's the client-side. The **server-side** is the internet's ability to respond to the requests made by users on the client-side.
+
+For example, say you are logging onto an account on your computer. You've entered your username and password credentials, and then you press the 'Enter' button on the screen. Clicking the 'Enter' button makes a request to send your credentials to the server-side.
 
 ![image](./slides/slide_6.jpg)
+The server is waiting for such requests so that it knows how to appropriately respond. In this case, it needs to verify if your login in *new* or *existing* information.
 
-> Web servers wait for client request messages, process them when they arrive, and reply to the web browser with an HTTP response message. The response contains a status line indicating whether or not the request succeeded (e.g. "HTTP/1.1 200 OK" for success).
 
 ![image](./slides/slide_7.jpg)
-> The request includes a URL identifying the affected resource, a method that defines the required action (for example to get, delete, or post the resource), and may include additional information encoded in URL parameters (the field-value pairs sent via a query string), as POST data (data sent by the HTTP POST method), or in associated cookies.
+If this was your first time logging into the account, the server might have a set of instructions on how to respond to the situation.
 
 ![image](./slides/slide_8.jpg)
-> Web servers wait for client request messages, process them when they arrive, and reply to the web browser with an HTTP response message. The response contains a status line indicating whether or not the request succeeded (e.g. "HTTP/1.1 200 OK" for success).
+If your account already exists and you are attempting to login again, the server will attempt to verify your information, ensure it is correct, and then respond in either case.
 
 ![image](./slides/slide_9.jpg)
-> The body of a successful response to a request would contain the requested resource (e.g. a new HTML page, or an image), which could then be displayed by the web browser.
+As developers, we will need to set up all the systems within these procedure to tell both the client-side and the server-side what actions they are allowed to do or how they are meant to respond.
 
 
 ## Frontend Development
@@ -78,16 +85,14 @@ In our use case, we will use Figma to wireframe and test different designs for o
 
 ### HTML
 ![image](./slides/slide_11.png)
-**HTML** is a markdown language we will use to give our webpages sense and *structure*. Some would consider HTML the *bones* to our webpages anatomy.
+**HyperText Markdown Language (HTML)** is a markdown language we will use to give our webpages sense and *structure*. Some would consider HTML the *bones* to our webpages anatomy.
 
 ### CSS
 ![image](./slides/slide_12.png)
-**CSS** is a styling language we will use to format, design, and beautify our webpages. You can think of it as the aesthetics of our webpage.
+**Cascading Styling Sheets (CSS)** is a styling language we will use to format, design, and beautify our webpages. You can think of it as the aesthetics of our webpage.
 
 ### JavaScript
 ![image](./slides/slide_13.png)
 **JavaScript** is a multi-paradigm programming language that can be used on both the frontend *and* the backend of our web development. It is considered the *function* behind the application. It drives the desired behaviors of your web apps. You should be familiar with both use cases by the end of this program.
 
 **Note:** It is important to understand that this program is teaching ***fullstack*** web development, and there will be an expectation to both design *and* develop web applications front to back. The success of your portfolio is contingent on your ability to design aesthetically pleasing webpages, as well as fully functional, bug-free, and accessible features in your applications.
-
-<hr>
