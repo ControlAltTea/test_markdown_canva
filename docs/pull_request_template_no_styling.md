@@ -2,13 +2,15 @@ HEADER 2 - Proposed changes
 LINE BREAK
 
 HEADER 2 - Link to Product Tracker
-PARAGRAPH - This will be a link to the issue you are specifically tasked with resolving.
+ITALICS - This will be a link to the issue you are specifically tasked with resolving.
 
 HEADER 2 - Link to Figma/Zeplin
-PARAGRAPH - This will be a link to the map or design behind the change decisions.
+
+ITALICS - This will be a link to the map or design behind the change decisions.
 
 HEADER 2 - Types of changes
-PARAGRAPH - What types of changes does your code introduce to Periodikal?
+
+ITALICS - What types of changes does your code introduce to Periodikal?
 
 _Put an `x` in the boxes that apply_
 
@@ -29,8 +31,9 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 HEADER 2 - Further comments
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+ITALICS - If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
 
 HEADER 2 - Screenshots if applicable
-Include screenshots in case of UI changes
+
+ITALICS - Include screenshots in case of UI changes
 _adding change for demo
